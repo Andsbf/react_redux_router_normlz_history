@@ -54,7 +54,7 @@ Your app is ready to be deployed!
 ### Structure
 
 This project uses the domain design to structure the React Components. Eg:
-
+```
 /src
 |-- sharedComponents
 |   |--input
@@ -76,7 +76,7 @@ This project uses the domain design to structure the React Components. Eg:
   .
   .
   .
-
+```
 ### 3rd Party Libs
 
 All 3rd party libraries are abstracted in the 'lib/index.js' file.
